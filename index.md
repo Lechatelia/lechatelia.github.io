@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages Of Jinguo Zhu
 
-You can use the [editor on GitHub](https://github.com/Lechatelia/Lechatelia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He is a student from Xi'an Jiaotong University
 
 ### Markdown
 
