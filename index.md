@@ -2,9 +2,9 @@
 
 He is a student from Xi'an Jiaotong University
 
-### Markdown
+### 教育背景
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+西安交通大学
 
 ```markdown
 Syntax highlighted code block
