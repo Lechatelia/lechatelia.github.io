@@ -2,28 +2,33 @@
 <center>Jinguo Zhu</center>
 
 
-Xi'an Jiaotong University, Xi'an 710049, China
+<center>Xi'an Jiaotong University, Xi'an 710049, China</center>
 
-lechatelia@stu.xjtu.edu.cn
+
+<center>lechatelia@stu.xjtu.edu.cn</center>
 
 ### Education
 
 **Xi'an Jiaotong University, China**
+   
+   *September 2019 - Present*
 ```markdown
-    September 2019 - Present
     Ph.D of Electrical Engineering & Automation
     Department of Electrical  Engineering
 ```
 **National Tsing Hua University, Taiwan Region**
+
+   *July 2019 - August 2019*
 ```markdown
-    July 2019 - August 2019
+    
     Exchage student of summer research program
     Department of Electrical Engineering
 ```
 
 **Xi'an Jiaotong University, China**
+    
+   *September 2015 - June 2019*
 ```markdown
-    September 2015 - June 2019
     Bachelor of Electrical Engineering & Automation
     Department of Electrical  Engineering
 ```
