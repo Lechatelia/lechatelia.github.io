@@ -44,5 +44,6 @@ My research interests include but are not limited to deep learning and computer 
 * Aijun Yang, Weijuan Li,Jifeng Chu, Dawei Wang, Huan Yuan, __Jinguo Zhu__, Xiaohua Wang, Mingzhe Rong. "Enhanced sensing of sulfur hexafluoride decomposition components based on noble-metal-functionalized cerium oxide." Materials \& Design (2019): 108391.
 
 * __Zhu, J.__, Yuan, Z., Zhang, C., Chi, W., & Ling, Y. (2020). Crowded Human Detection via an Anchor-pair Network. In The IEEE Winter Conference on Applications of Computer Vision (pp. 1391-1399).
+
 ###  Internship Seeking
-If any boss is interested in me, please contact me for a more detailed resume ([my email](lechatelia@stu.xjtu.edu.cn))
+If any boss is interested in me, please contact me for a more detailed resume ([my email](lechatelia@stu.xjtu.edu.cn)).
