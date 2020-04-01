@@ -1,10 +1,10 @@
 ## Welcome to GitHub Pages Of Jinguo Zhu
+Jinguo Zhu
+Xi'an Jiaotong University, Xi'an 710049, China
+lechatelia@stu.xjtu.edu.cn
 
-He is a student from Xi'an Jiaotong University
-
-### 教育背景
-
-西安交通大学
+### Education
+ Xi'an Jiaotong University, China
 
 ```markdown
 Syntax highlighted code block
