@@ -19,8 +19,7 @@
 **National Tsing Hua University, Taiwan Region**
 
    *July 2019 - August 2019*
-```markdown
-    
+```markdown 
     Exchage student of summer research program
     Department of Electrical Engineering
 ```
@@ -33,7 +32,6 @@
     Department of Electrical  Engineering
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Research fields
 
