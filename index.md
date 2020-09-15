@@ -45,5 +45,7 @@ My research interests include but are not limited to deep learning and computer 
 
 * __Zhu, J.__, Yuan, Z., Zhang, C., Chi, W., & Ling, Y. (2020). Crowded Human Detection via an Anchor-pair Network. In The IEEE Winter Conference on Applications of Computer Vision (pp. 1391-1399).
 
+* __Zhu, J.__, Guo, Y., Yue, F., Yuan, H., Yang, A., Wang, X., & Rong, M. (2020). A Deep Learning Method to Detect Foreign Objects for Inspecting Power Transmission Lines. IEEE Access.
+
 ###  Internship Seeking
 If any boss is interested in me, please contact me for a more detailed resume ([my email](lechatelia@stu.xjtu.edu.cn)).
