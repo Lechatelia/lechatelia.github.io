@@ -41,11 +41,8 @@ My research interests include but are not limited to deep learning and computer 
 [google schlar link](https://scholar.google.com.hk/citations?user=YfHg5lQAAAAJ&hl=zh-CN)
 * __Jinguo Zhu__, Zejian Yuan, and Tie Liu. "Welding Joints Inspection via Residual Attention Network." 2019 16th International Conference on Machine Vision Applications (MVA). IEEE, 2019.
 
-* Aijun Yang, Weijuan Li,Jifeng Chu, Dawei Wang, Huan Yuan, __Jinguo Zhu__, Xiaohua Wang, Mingzhe Rong. "Enhanced sensing of sulfur hexafluoride decomposition components based on noble-metal-functionalized cerium oxide." Materials \& Design (2019): 108391.
-
 * __Zhu, J.__, Yuan, Z., Zhang, C., Chi, W., & Ling, Y. (2020). Crowded Human Detection via an Anchor-pair Network. In The IEEE Winter Conference on Applications of Computer Vision (pp. 1391-1399).
 
-* __Zhu, J.__, Guo, Y., Yue, F., Yuan, H., Yang, A., Wang, X., & Rong, M. (2020). A Deep Learning Method to Detect Foreign Objects for Inspecting Power Transmission Lines. IEEE Access.
 
 ###  Internship Seeking
 If any boss is interested in me, please contact me for a more detailed resume ([my email](lechatelia@stu.xjtu.edu.cn)).
