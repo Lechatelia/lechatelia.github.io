@@ -13,7 +13,7 @@
    
    *September 2019 - Present*
 ```markdown
-    Ph.D of Electrical Engineering & Automation
+    Ph.D student of Electrical Engineering & Automation
     Department of Electrical  Engineering
 ```
 **National Tsing Hua University, Taiwan Region**
@@ -38,7 +38,7 @@
 My research interests include but are not limited to deep learning and computer vision, and I hope to apply artificial intelligence technology to online monitoring and fault diagnosis in electrical engineering field.
 
 ### Academic Achievements
-[google schlar link](https://scholar.google.com.hk/citations?user=YfHg5lQAAAAJ&hl=zh-CN)
+
 * __Jinguo Zhu__, Zejian Yuan, and Tie Liu. "Welding Joints Inspection via Residual Attention Network." 2019 16th International Conference on Machine Vision Applications (MVA). IEEE, 2019.
 
 * __Zhu, J.__, Yuan, Z., Zhang, C., Chi, W., & Ling, Y. (2020). Crowded Human Detection via an Anchor-pair Network. In The IEEE Winter Conference on Applications of Computer Vision (pp. 1391-1399).
