@@ -39,10 +39,13 @@ My research interests include but are not limited to deep learning and computer 
 
 ### Academic Achievements
 
+* __Jinguo Zhu__, Shixiang Tang, Dapeng Chen, Shijie Yu, Yakun Liu, Aijun Yang, Mingzhe Rong, Xiaohua Wang. "Complementary Relation Contrastive Distillation."  CVPR 2021.
+
+* __Zhu, J.__, Yuan, Z., Zhang, C., Chi, W., & Ling, Y. (2020). Crowded Human Detection via an Anchor-pair Network. WACV 2020.
+
 * __Jinguo Zhu__, Zejian Yuan, and Tie Liu. "Welding Joints Inspection via Residual Attention Network." 2019 16th International Conference on Machine Vision Applications (MVA). IEEE, 2019.
 
-* __Zhu, J.__, Yuan, Z., Zhang, C., Chi, W., & Ling, Y. (2020). Crowded Human Detection via an Anchor-pair Network. In The IEEE Winter Conference on Applications of Computer Vision (pp. 1391-1399).
 
 
 ###  Internship Seeking
-If any boss is interested in me, please contact me for a more detailed resume ([my email](lechatelia@stu.xjtu.edu.cn)).
+If any boss is handsome enough, please contact me and give me a offer (lechatelia@stu.xjtu.edu.cn).
