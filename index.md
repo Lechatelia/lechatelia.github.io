@@ -48,4 +48,4 @@ My research interests include but are not limited to deep learning and computer 
 
 
 ###  Internship Seeking
-If any boss is handsome enough, please contact me and give me a offer (lechatelia@stu.xjtu.edu.cn).
+If any boss is handsome enough, please contact me and give me an offer (lechatelia@stu.xjtu.edu.cn).
