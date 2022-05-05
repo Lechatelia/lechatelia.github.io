@@ -39,9 +39,13 @@ My research interests include but are not limited to deep learning and computer 
 
 ### Academic Achievements
 
+* Xizhou Zhu,  __Jinguo Zhu__, Hao Li, Xiaoshi Wu, Xiaogang Wang, Hongsheng Li, Xiaohua Wang,
+Jifeng Dai. "Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and
+Few-shot Tasks." CVPR 2022.
+
 * __Jinguo Zhu__, Shixiang Tang, Dapeng Chen, Shijie Yu, Yakun Liu, Aijun Yang, Mingzhe Rong, Xiaohua Wang. "Complementary Relation Contrastive Distillation."  CVPR 2021.
 
-* __Zhu, J.__, Yuan, Z., Zhang, C., Chi, W., & Ling, Y. (2020). Crowded Human Detection via an Anchor-pair Network. WACV 2020.
+*  __Jinguo Zhu__, Zejian Yuan, Chong Zhang, Wanchao Chi, Yonggen Ling, Shenghao Zhang. "Crowded Human Detection via an Anchor-pair Network." WACV 2020.
 
 * __Jinguo Zhu__, Zejian Yuan, and Tie Liu. "Welding Joints Inspection via Residual Attention Network." 2019 16th International Conference on Machine Vision Applications (MVA). IEEE, 2019.
 
