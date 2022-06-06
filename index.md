@@ -45,6 +45,8 @@ Few-shot Tasks." CVPR 2022.
 
 * __Jinguo Zhu__, Shixiang Tang, Dapeng Chen, Shijie Yu, Yakun Liu, Aijun Yang, Mingzhe Rong, Xiaohua Wang. "Complementary Relation Contrastive Distillation."  CVPR 2021.
 
+* Shixiang Tang, Dapeng Chen,  __Jinguo Zhu__, Shijie Yu, Wanli Ouyang. "Layerwise optimization by gradient decomposition for continual learning." CVPR 2021.
+
 *  __Jinguo Zhu__, Zejian Yuan, Chong Zhang, Wanchao Chi, Yonggen Ling, Shenghao Zhang. "Crowded Human Detection via an Anchor-pair Network." WACV 2020.
 
 * __Jinguo Zhu__, Zejian Yuan, and Tie Liu. "Welding Joints Inspection via Residual Attention Network." 2019 16th International Conference on Machine Vision Applications (MVA). IEEE, 2019.
