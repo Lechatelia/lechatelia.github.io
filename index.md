@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages Of Lechatelia
+## Welcome to GitHub Pages of Lechatelia
 <center>Jinguo Zhu</center>
 
 
@@ -39,6 +39,8 @@ My research interests include but are not limited to deep learning and computer 
 
 ### Academic Achievements
 
+* __Jinguo Zhu__, Xizhou Zhu, Wenhai Wang, Xiaohua Wang, Hongsheng Li, Xiaogang Wang, Jifeng Dai. "Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs." arxiv tech report 2022.
+
 * Xizhou Zhu,  __Jinguo Zhu__, Hao Li, Xiaoshi Wu, Xiaogang Wang, Hongsheng Li, Xiaohua Wang,
 Jifeng Dai. "Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and
 Few-shot Tasks." CVPR 2022.
@@ -54,4 +56,4 @@ Few-shot Tasks." CVPR 2022.
 
 
 ###  Internship Seeking
-If any boss is handsome enough, please contact me and give me an offer (lechatelia@stu.xjtu.edu.cn).
+If any boss is handsome enough, please give me an offer (lechatelia@stu.xjtu.edu.cn).
