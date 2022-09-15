@@ -39,7 +39,7 @@ My research interests include but are not limited to deep learning and computer 
 
 ### Academic Achievements
 
-* __Jinguo Zhu__, Xizhou Zhu, Wenhai Wang, Xiaohua Wang, Hongsheng Li, Xiaogang Wang, Jifeng Dai. "Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs." arxiv tech report 2022.
+* __Jinguo Zhu__, Xizhou Zhu, Wenhai Wang, Xiaohua Wang, Hongsheng Li, Xiaogang Wang, Jifeng Dai. "Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs." NeurIPS 2022.
 
 * Xizhou Zhu,  __Jinguo Zhu__, Hao Li, Xiaoshi Wu, Xiaogang Wang, Hongsheng Li, Xiaohua Wang,
 Jifeng Dai. "Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and
