@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages of Jinguo Zhu
+## Welcome to the Homepage of Jinguo Zhu
 
 <center>Jinguo Zhu (Lechatelia)</center>
 
