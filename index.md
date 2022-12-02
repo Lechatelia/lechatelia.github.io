@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages of Lechatelia
-<center>Jinguo Zhu</center>
+## Welcome to GitHub Pages of Jinguo Zhu
+
+<center>Jinguo Zhu (Lechatelia)</center>
 
 
 <center>Xi'an Jiaotong University, Xi'an 710049, China</center>
