@@ -39,12 +39,12 @@
 My research interests include but are not limited to deep learning and computer vision, and I hope to apply artificial intelligence technology to online monitoring and fault diagnosis in electrical engineering field.
 
 ### Academic Achievements
-* Hao Li, __Jinguo Zhu__ (co-author), Xiaohu Jiang, Xizhou Zhu, Hongsheng Li, Chun Yuan, Xiaohua Wang, Yu Qiao, Xiaogang Wang, Wenhai Wang, Jifeng Dai. Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks. arxiv.
+* Hao Li, __Jinguo Zhu__ (co-first author), Xiaohu Jiang, Xizhou Zhu, Hongsheng Li, Chun Yuan, Xiaohua Wang, Yu Qiao, Xiaogang Wang, Wenhai Wang, Jifeng Dai. Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks. arxiv.
 
 
 * __Jinguo Zhu__, Xizhou Zhu, Wenhai Wang, Xiaohua Wang, Hongsheng Li, Xiaogang Wang, Jifeng Dai. "Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs." NeurIPS 2022. [code](https://github.com/fundamentalvision/Uni-Perceiver).
 
-* Xizhou Zhu,  __Jinguo Zhu__(co-author), Hao Li, Xiaoshi Wu, Xiaogang Wang, Hongsheng Li, Xiaohua Wang,
+* Xizhou Zhu,  __Jinguo Zhu__(co-first author), Hao Li, Xiaoshi Wu, Xiaogang Wang, Hongsheng Li, Xiaohua Wang,
 Jifeng Dai. "Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and
 Few-shot Tasks." CVPR 2022. [code](https://github.com/fundamentalvision/Uni-Perceiver).
 
