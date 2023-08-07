@@ -34,11 +34,30 @@
 ```
 
 
+
 ### Research fields
 
-My research interests include but are not limited to deep learning and computer vision, and I hope to apply artificial intelligence technology to online monitoring and fault diagnosis in electrical engineering field.
+* I focus on __large-scale multi-modal model training__, and __deep learning optimization techniques__; I also have worked on  projects related to knowledge distillation, object detection, segmentation,  pose estimation, depth completion, natural language understanding, etc.
 
-### Academic Achievements
+* I am skilled in C/C++, Python, MATLAB, Shell script, and Pytorch/DeepSpeed.
+
+### Internship experiences
+**AI Lab, Tencent**
+
+*July 2023 - Present*
+
+**Sensetime Research & Shanghai AI Lab**
+
+*September 2021 - May 2023*
+
+**SCG, Sensetime**
+
+*June 2020 - September 2021*
+
+### Academic achievements
+
+_(thanks a lot for all help from all co-authos)_
+
 * Hao Li, __Jinguo Zhu__ (co-first author), Xiaohu Jiang, Xizhou Zhu, Hongsheng Li, Chun Yuan, Xiaohua Wang, Yu Qiao, Xiaogang Wang, Wenhai Wang, Jifeng Dai. Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks. CVPR2023.
 
 
@@ -58,5 +77,5 @@ Few-shot Tasks." CVPR 2022. [code](https://github.com/fundamentalvision/Uni-Perc
 
 
 
-###  Internship Seeking
-If any boss is handsome enough, please give me an offer (lechatelia@stu.xjtu.edu.cn).
+###  Job Seeking
+I hope a kind boss will give me a good offer(lechatelia@stu.xjtu.edu.cn).
