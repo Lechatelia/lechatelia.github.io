@@ -56,7 +56,7 @@
 
 ### Academic achievements
 
-_(thanks a lot for all help from all co-authos)_
+_(thanks a lot for all help from all co-authors)_
 
 * Hao Li, __Jinguo Zhu__ (co-first author), Xiaohu Jiang, Xizhou Zhu, Hongsheng Li, Chun Yuan, Xiaohua Wang, Yu Qiao, Xiaogang Wang, Wenhai Wang, Jifeng Dai. Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks. CVPR2023.
 
