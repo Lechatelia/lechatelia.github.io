@@ -1,6 +1,6 @@
 ## Welcome to the Homepage of Jinguo Zhu
 
-<center>Jinguo Zhu (Lechatelia)</center>
+<center>Jinguo Zhu (祝金国)</center>
 
 
 <center>Xi'an Jiaotong University, Xi'an 710049, China</center>
