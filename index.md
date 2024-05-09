@@ -44,7 +44,7 @@
 ### Internship experiences
 **AI Lab, Tencent**
 
-*July 2023 - Present*
+*July 2023 - May 2024*
 
 **Sensetime Research & Shanghai AI Lab**
 
