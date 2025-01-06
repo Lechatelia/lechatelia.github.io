@@ -44,7 +44,7 @@ Before that, I received my B.S. degree from the Xi'an Jiaotong University in 201
 Xizhou Zhu, **Jinguo Zhu**, Hao Li, Xiaoshi Wu, Hongsheng Li, Xiaohua Wang, Jifeng Dai
 
 
-[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=YfHg5lQAAAAJ&citation_for_view=YfHg5lQAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='YfHg5lQAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Project**](https://github.com/fundamentalvision/Uni-Perceiver)
 - Uni-Perceiver is a generalist model for vision and language tasks.
 </div>
 </div>
