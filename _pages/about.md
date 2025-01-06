@@ -32,11 +32,11 @@ Before that, I received my B.S. degree from the Xi'an Jiaotong University in 201
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Our team released [InternVL-2.5](https://internvl.github.io/blog/2024-12-05-InternVL-2.5/).
 - *2024.07*: &nbsp;🎉🎉 Our team released [InternVL-2.0](https://internvl.github.io/blog/2024-07-02-InternVL-2.0/).
-- *2024.05*: &nbsp;🎉🎉 Our vision model pre-training method Latent Compression Learning (LCL) was accepted by NeurIPS 2024.
+- *2024.05*:  Our vision model pre-training method Latent Compression Learning (LCL) was accepted by NeurIPS 2024.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/unip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/unip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uni-Perceiver: Pre-training unified architecture for generic perception for zero-shot and few-shot tasks](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Uni-Perceiver_Pre-Training_Unified_Architecture_for_Generic_Perception_for_Zero-Shot_and_CVPR_2022_paper.pdf)
@@ -44,7 +44,7 @@ Before that, I received my B.S. degree from the Xi'an Jiaotong University in 201
 Xizhou Zhu, **Jinguo Zhu**, Hao Li, Xiaoshi Wu, Hongsheng Li, Xiaohua Wang, Jifeng Dai
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='YfHg5lQAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=YfHg5lQAAAAJ&citation_for_view=YfHg5lQAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='YfHg5lQAAAAJ:u5HHmVD_uO8C'></span></strong>
 - Uni-Perceiver is a generalist model for vision and language tasks.
 </div>
 </div>
