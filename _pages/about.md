@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 My name is Jinguo Zhu (祝金国), now is a young researcher at the Shanghai AI Laboratory, China.
-My research interest focuses on the pre-training and post-training for large mulmodal models.
+My research interest focuses on the pre-training and post-training for large multimodal models.
 
 
 I got my Ph.D. degree from the Xi'an Jiaotong University in 2024, supervised by Prof. Mingzhe Rong and Prof. Xiaowang Hua.
