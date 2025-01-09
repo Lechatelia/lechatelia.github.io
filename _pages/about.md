@@ -20,7 +20,7 @@ My name is Jinguo Zhu (祝金国), now is a young researcher at the Shanghai AI 
 My research interest focuses on the pre-training and post-training for large multimodal models.
 
 
-I got my Ph.D. degree from the Xi'an Jiaotong University in 2024, supervised by Prof. Mingzhe Rong and Prof. Xiaowang Hua.
+I got my Ph.D. degree from the Xi'an Jiaotong University in 2024, supervised by Prof. Mingzhe Rong and Prof. Xiaohua Wang.
 Before that, I received my B.S. degree from the Xi'an Jiaotong University in 2019.
 
 
