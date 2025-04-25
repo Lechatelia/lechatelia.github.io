@@ -30,7 +30,7 @@ Before that, I received my B.S. degree from the Xi'an Jiaotong University in 201
 
 
 # 🔥 News
-- *2025。04*: &nbsp;🎉🎉 Our team released [InternVL-3.0]([https://internvl.github.io/blog/2025-04-11-InternVL-3.0/)).
+- *2025.04*: &nbsp;🎉🎉 Our team released [InternVL-3.0](https://internvl.github.io/blog/2025-04-11-InternVL-3.0/).
 - *2024.12*: &nbsp;🎉🎉 Our team released [InternVL-2.5](https://internvl.github.io/blog/2024-12-05-InternVL-2.5/).
 - *2024.07*: &nbsp;🎉🎉 Our team released [InternVL-2.0](https://internvl.github.io/blog/2024-07-02-InternVL-2.0/).
 - *2024.05*:  Our vision model pre-training method Latent Compression Learning (LCL) was accepted by NeurIPS 2024.
